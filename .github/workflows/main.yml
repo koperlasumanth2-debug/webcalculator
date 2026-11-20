@@ -3,4 +3,4 @@ on:
   push
 jobs:
   build:
-  uses: koperlasumanth2-debug/Actions/.github/workflows/reusuable.yml  
+    uses: koperlasumanth2-debug/Actions/.github/workflows/reusuable.yml  
